@@ -1,0 +1,71 @@
+/*CSS General !!No Comentar!!*/
+*{
+    padding:0;
+    margin:0;
+} 
+form{
+    margin:3%;
+}
+ul{
+    margin:5%;
+}
+#test{
+    display:flex;
+    flex-direction: row;
+    align-items:center;
+    text-align: center;
+    justify-content: center;
+}
+header{
+    width:100%;
+    text-align:center;
+    border-bottom:solid 5px #333333;
+    background:#999999;
+}
+h1{
+    color:red;
+    font-size:650%;
+}
+footer{
+    text-align: center;
+    padding:2%;
+    border-top:solid 3px #333333;
+}
+header img{
+    width:20%;
+}
+section img{
+    width:35%;
+    border:solid 1.5px black;
+    margin-left:10%;
+}
+p{
+    padding:1%;
+}
+h2{
+    text-decoration: underline;
+    text-align:center;
+    background-color:#999999;
+    border:solid 2px white;
+    border-radius:20%;
+}h3{
+    text-decoration: underline;
+    text-align: center;
+}
+main{
+    width:80%;
+    background:white;
+    padding:3%;
+    border-left:solid 0.06px black;
+    border-right:solid 0.06px black;
+    margin-top:5%;
+    margin-bottom: 4%;
+    background: #666666;
+}
+article{
+    background:white;
+    box-sizing: border-box;
+    border:solid 1px black;
+    border-radius: 5%;
+    margin-bottom:3%;
+}
